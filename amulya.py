@@ -58,7 +58,7 @@ def load_data():
 
 df, faiss_index = load_data()
 
-st.markdown('<h1 class="chat-font">🤖 Amulya's Clone Chatbot</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="chat-font">🤖  Jhansi Amulya Clone Chatbot</h1>', unsafe_allow_html=True)
 st.markdown('<h3 class="chat-font">Ask me anything, and I\'ll respond as Amulya!</h3>', unsafe_allow_html=True)
 st.markdown("---")
 
